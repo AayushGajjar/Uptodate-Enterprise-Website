@@ -20,6 +20,8 @@ Built with a focus on clean design, responsiveness, and performance.
 - CSS3
 - JavaScript (Vanilla)
 
+'''
+
 ## 📁 Project Structure
 ├── index.html
 ├── css/
@@ -28,6 +30,7 @@ Built with a focus on clean design, responsiveness, and performance.
 ├── assets/
 └── README.md
 
+'''
 
 ## ✨ Features
 
