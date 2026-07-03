@@ -20,18 +20,6 @@ Built with a focus on clean design, responsiveness, and performance.
 - CSS3
 - JavaScript (Vanilla)
 
-'''
-
-## 📁 Project Structure
-├── index.html
-├── css/
-├── js/
-├── images/
-├── assets/
-└── README.md
-
-'''
-
 ## ✨ Features
 
 - Fully Responsive Design
