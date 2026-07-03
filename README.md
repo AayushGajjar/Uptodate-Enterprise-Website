@@ -37,4 +37,4 @@ https://uptodateenterprise.com
 
 For business inquiries, please visit:
 
-https://uptodateenterprise.com/contact
+https://uptodateenterprise.com/#contact
